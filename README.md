@@ -176,7 +176,7 @@ p {
 ![alt text](image-1.png)
 
 ![alt text](image-2.png)
+<img width="1366" height="863" alt="image" src="https://github.com/user-attachments/assets/f39efe43-cc77-4bf3-8cb0-b3bb2846c8bb" />
 
-![alt text](image-3.png)
 ## RESULT
 The program for creating Image Carousel using React is executed successfully.
